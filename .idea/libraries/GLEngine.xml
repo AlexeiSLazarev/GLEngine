@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GLEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JOML-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-release-3.1.0-custom.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
